@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x 3 bogdan bogdan 4,0K фев  9 21:54 ./
+drwxrwxr-x 3 bogdan bogdan 4,0K фев  9 21:48 ../
+-rw-rw-r-- 1 bogdan bogdan  597 фев  9 21:52 config.txt
+-rw-rw-r-- 1 bogdan bogdan  168 фев  9 21:48 first.txt
+drwxrwxr-x 8 bogdan bogdan 4,0K фев  9 21:53 .git/
+-rw-rw-r-- 1 bogdan bogdan    0 фев  9 21:54 ls.txt
+-rw-rw-r-- 1 bogdan bogdan   13 фев  9 21:48 README.md
+-rw-rw-r-- 1 bogdan bogdan  199 фев  9 21:48 status.txt
